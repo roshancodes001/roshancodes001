@@ -43,7 +43,6 @@ I'm Roshan Kumar S, an enthusiastic **Computer Science and Engineering** undergr
 ---
 
 # 📈 Stats:
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshancodes001&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshancodes001&layout=compact&theme=radical)
 
 ---
